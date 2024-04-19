@@ -4,7 +4,6 @@ from src.mlproject.components.data_ingestion import DataIngestion
 from src.mlproject.components.data_ingestion import DataIngestionConfig
 from src.mlproject.components.data_transformation import DataTransformationConfig,DataTransformation
 from src.mlproject.components.model_tranier import ModelTrainerConfig,ModelTrainer
-
 import sys
 
 
